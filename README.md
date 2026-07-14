@@ -1,2 +1,3 @@
 # weather-data-analysis
-An automated Excel dashboard for inventory tracking using IF formulas, conditional formatting, and Pivot Tables.
+wheather data analysis dashboard
+An interactive excel dashboard analyzing monthly weather patterns, tracking teamperature trends, rainfall, and humidity. Include dynamic KPIs and weathercondition filters.
